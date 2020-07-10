@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1)](https://hits.seeyoufarm.com)
+</div>
+
 <!--
 **9m1i9n1/9m1i9n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
