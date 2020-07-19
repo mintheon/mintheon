@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m currently learning ...🌱
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1)
 </div>
 
 <!--
