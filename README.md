@@ -5,11 +5,16 @@
 
 </div>
 
-<h1 align="center"> 👨🏻‍💻while(learning = Infinity); </h1>
+<div align="center">
 
-<h2 align="center"> Hello 👋🏼, I'm Minhyun! </h1> 
+## 👨🏻‍💻while(learning = Infinity);
+
+### Hello 👋🏼, I'm Minhyun!
+
+</div>
 
 ---
+<!--
 
 ## About Me
 
@@ -71,7 +76,7 @@
 
 </div>
 
-<!--
+
 **9m1i9n1/9m1i9n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
