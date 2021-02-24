@@ -1,18 +1,19 @@
-<div align="center"> 
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1)
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Git Follow](https://img.shields.io/github/followers/9m1i9n1?style=social)](https://9m1i9n1.github.io/) 
+
 </div>
 
 <h1 align="center"> 👨🏻‍💻while(learning = Infinity); </h1>
 
-<h2 align="center"> Hello 👋🏼, I'm Minhyun! </h1>
+<h2 align="center"> Hello 👋🏼, I'm Minhyun! </h1> 
 
 ---
 
 ## About Me
 
 ⚡   Junior Backand Developer
-
-
 
 --- 
 
@@ -50,14 +51,8 @@
 
 ### Interest
 
-
-
-💻   language : Java (Spring)
-🌐   Web : HTML | CSS | JavaScript | JSP | Thymeleaf |Bootstrap | vue.js |
-📫   DB Access : JPA | Mybatis
-🛢   DB : MySQL | Oracle
-Interest
-🌱   infra : Jenkins | docker | AWS | cubernatis
+- Kubernetes
+- TypeScript
 
 ---
 
@@ -67,8 +62,10 @@ Interest
 
 ---
 
-<div align="center">
+## More
 
+<div align="center">
+  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)](https://9m1i9n1.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com)
 
@@ -78,6 +75,12 @@ Interest
 **9m1i9n1/9m1i9n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+💻   language : Java (Spring)
+🌐   Web : HTML | CSS | JavaScript | JSP | Thymeleaf |Bootstrap | vue.js |
+📫   DB Access : JPA | Mybatis
+🛢   DB : MySQL | Oracle
+Interest
+🌱   infra : Jenkins | docker | AWS | cubernatis
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
