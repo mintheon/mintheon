@@ -7,13 +7,12 @@
 
 <div align="center">
 
-## 👨🏻‍💻while(learning = Infinity);
+### 👨🏻‍💻while(learning = Infinity);
 
 ### Hello 👋🏼, I'm Minhyun!
 
 </div>
 
----
 <!--
 
 ## About Me
