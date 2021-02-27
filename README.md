@@ -6,12 +6,12 @@
 </div>
 
 <div align="center">
-
-### 👨🏻‍💻while(learning = Infinity);
-
+  
 ### About Me
 
 ⚡   Junior Backand Developer
+
+---
 
 ### Tech Stack
 
@@ -32,6 +32,8 @@
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
+
+---
 
 <h3 align="center">
   Do you understand <b>안녕</b>? It's ok if you don't. 
