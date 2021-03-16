@@ -42,6 +42,12 @@
   I understand English & 中文, Get in touch.
 </h4>
 
+---
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)]() 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com?subject=Hello%20Minhyun,%20From%20Github)
+  
 </div>
 
 <!--
@@ -102,7 +108,7 @@
 <div align="center">
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)](https://9m1i9n1.github.io/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com?subject=Hello%20Minhyun,%20From%20Github)
 
 </div>
 
@@ -121,6 +127,7 @@ Interest
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
+    <a target="_blank" target="_blank"href="https://twitter.com/hadonglee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
