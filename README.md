@@ -44,8 +44,8 @@
 
 ---
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)]() 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)](https://9m1i9n1.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com?subject=Hello%20Minhyun,%20From%20Github)
   
 </div>
