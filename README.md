@@ -33,7 +33,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 
----
+
 
 <h3 align="center">
   Do you understand <b>안녕</b>? It's ok if you don't. 
@@ -42,7 +42,7 @@
   I understand English & 中文, Get in touch.
 </h4>
 
----
+### 🖋
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)](https://9m1i9n1.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
