@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9m1i9n1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Git Follow](https://img.shields.io/github/followers/9m1i9n1?style=social)](https://9m1i9n1.github.io/) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/) 
 
 </div>
 
@@ -15,23 +15,23 @@
 
 ### Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
-  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mintheon)](https://github.com/mintheon) 
+  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/mintheon)](https://github.com/mintheon)
+  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/mintheon)](https://github.com/mintheon)
+  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/mintheon)](https://github.com/mintheon) 
+  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=https://github.com/mintheon)](https://github.com/mintheon)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mintheon)](https://github.com/mintheon) 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mintheon)](https://github.com/mintheon) 
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/mintheon)](https://github.com/mintheon)
+[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/mintheon)](https://github.com/mintheon) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/mintheon)](https://github.com/mintheon) 
 
 ---
 
@@ -44,9 +44,9 @@
 
 ### 🖋
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://9m1i9n1.github.io/)](https://9m1i9n1.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mintheon.github.io/)](https://mintheon.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9m1i9n1@gmail.com)](mailto:9m1i9n1@gmail.com?subject=Hello%20Minhyun,%20From%20Github)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mintheon@mintheon.com)](mailto:mintheon@mintheon.com?subject=Hello%20Minhyun,%20From%20Github)
   
 </div>
 
