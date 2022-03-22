@@ -4,11 +4,13 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
+<a href="https://twitter.com/mintheonz">
+  <img alt="Twitter: mintheon" src="https://img.shields.io/twitter/follow/mintheon.svg?style=social" target="_blank" />
+</a>
 [![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/) 
-
+  
 </div>
 
 <div align="center">
