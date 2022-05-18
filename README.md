@@ -4,13 +4,14 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%23B3B3B3&title_bg=%23809F6D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
   
 [![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/)
-<a href="https://twitter.com/mintheonz">
+  
+<!-- <a href="https://twitter.com/mintheonz">
  <img alt="Twitter: mintheon" src="https://img.shields.io/twitter/follow/mintheonz.svg?style=social" target="_blank" />
-</a>
+</a> -->
 
 </div>
 
@@ -52,12 +53,11 @@
 </h4>
 
 ### 🖋
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mintheon.github.io/)](https://mintheon.github.io/)
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
--->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mintheon@mintheon.com)](mailto:mintheon@mintheon.com?subject=Hello%20Minhyun,%20From%20Github)
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mintheon.github.io/)](https://mintheon.github.io/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mintheon@mintheon.com)](mailto:mintheon@mintheon.com?subject=Hello%20Minhyun,%20From%20Github)
+  
   
 </div>
 
