@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%23B3B3B3&title_bg=%23809F6D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%239B9B9B&title_bg=%2367735D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
   
 [![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/)
