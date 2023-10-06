@@ -55,9 +55,7 @@
 ### 🖋
   
   [![Tech Blog Badge](https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white&link=https://mintheon.github.io/)](https://mintheon.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%84-%EC%9D%B4-64113b170/) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mintheon@mintheon.com)](mailto:mintheon@mintheon.com?subject=Hello%20Minhyun,%20From%20Github)
-  
   
 </div>
 
