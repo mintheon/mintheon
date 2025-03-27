@@ -19,7 +19,7 @@
   
 ### About Me
 
-⚡   Junior Backend Developer
+⚡  Backend Developer
 
 ---
 
