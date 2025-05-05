@@ -4,8 +4,9 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintheon&count_bg=%239B9B9B&title_bg=%2367735D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/mintheon)
+![hits](https://komarev.com/ghpvc/?username=mintheon)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
+[![wakatime](https://wakatime.com/badge/user/eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb.svg)](https://wakatime.com/@eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb)
   
 [![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/)
   
