@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=mintheon&fontSize=90&animation=twinkling&fontAlignY=35&desc=MinHyun%20Lee"/>
-</div>
+</div> -->
 
 <div align="center">
 
@@ -17,32 +17,6 @@
 </div>
 
 <div align="center">
-  
-### About Me
-
-⚡  Backend Developer
-
----
-
-### Tech Stack
-
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mintheon)](https://github.com/mintheon) 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/mintheon)](https://github.com/mintheon)
-  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/mintheon)](https://github.com/mintheon)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/mintheon)](https://github.com/mintheon) 
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=https://github.com/mintheon)](https://github.com/mintheon)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mintheon)](https://github.com/mintheon) 
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mintheon)](https://github.com/mintheon) 
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/mintheon)](https://github.com/mintheon)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/mintheon)](https://github.com/mintheon) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/mintheon)](https://github.com/mintheon) 
 
 ---
 
