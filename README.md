@@ -5,8 +5,8 @@
 <div align="center">
 
 ![hits](https://komarev.com/ghpvc/?username=mintheon)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE)
-[![wakatime](https://wakatime.com/badge/user/eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb.svg)](https://wakatime.com/@eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=BLACKITE)](https://solved.ac/BLACKITE) -->
+[![wakatime](https://wakatime.com/badge/user/eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb.svg)](https://wakatime.com/@eae9d1cf-c861-44ce-8885-9a7f6a7bfcfb) 
   
 [![Git Follow](https://img.shields.io/github/followers/mintheon?style=social)](https://mintheon.github.io/)
   
